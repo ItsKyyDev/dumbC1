@@ -1,6 +1,7 @@
 # Praktikum Pemrograman C
 
-Repository ini berisi beberapa program sederhana untuk latihan dasar bahasa C.  
+Repository ini merupakan sebuah tugas dari Kampus saya untuk membuat beberapa sederhana menggunakan bahasa C.  
+berisi beberapa program sederhana untuk latihan dasar bahasa C.  
 Setiap program memiliki tujuan berbeda, dan hasil outputnya ditampilkan pada gambar di bawah.
 
 ---
